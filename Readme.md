@@ -20,7 +20,7 @@ El patrón  es un excelente aliado cuando necesitamos recorrer estructuras y rea
 
 ## Parte 1: Abstracción del arbol
 
-Como primer objetivo, deberán modificar el programa para poder representar un árbol familiar. Un árbol familiar es un árbol cuyos nodos contienen una persona. Para este caso, nos iteresa el nombre y la edad de cada persona.
+Como primer objetivo, deberán modificar el programa para poder representar un árbol familiar. Un árbol familiar es un árbol cuyos nodos contienen una persona. Para este caso, nos interesa el nombre y la edad de cada persona.
 
 Verán que la implementación del árbol provista es bastante rígida. Será tarea de ustedes modificar la implementación para hacerla más abstracta, de forma de poder tener tanto árboles de `int` como el provisto, pero también árboles de la clase `Person` que vas a crear.
 
